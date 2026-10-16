@@ -17,7 +17,6 @@
 
 ↳ 🌐 [scoutvr.online](https://scoutvr.online)  
 ↳ 🖤 [guns.lol/client.jar](https://guns.lol/client.jar)  
-↳ 💻 [profile](https://github.com/client-jar)
 
 ---
 
